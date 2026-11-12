@@ -1,4 +1,4 @@
-#converting JSON file to CSV
+#convert neoWs JSON file to CSV
 """
 Created on Thu Nov 12 02:35:16 2026
 
