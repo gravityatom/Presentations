@@ -1,5 +1,5 @@
 /*Insert data from neo web service */
-ERT INTO near_earth_objects (id,name,close_approach_date,miss_distance_km,relative_velocity_kph,estimated_diameter_min_km,estimated_diameter_max_km,is_potentially_harzardous,orbiting_body)
+INSERT INTO near_earth_objects (id,name,close_approach_date,miss_distance_km,relative_velocity_kph,estimated_diameter_min_km,estimated_diameter_max_km,is_potentially_harzardous,orbiting_body)
 VALUES
 (3092201,'1998 VE31',2026-11-09,26702923.725855483,43652.2400273239,0.1684825693,0.3767384779,0,'Earth'),
 (3400306,'2008 BT2',2026-11-09,37081520.818899099,14288.8379817526,0.0328514828,0.0734581487,0,'Earth'),
